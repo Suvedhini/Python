@@ -1,0 +1,39 @@
+a=3
+b=5
+
+#ARITHMETIC OPERATOR
+print("The value of a+b is: ",3+4)
+print("The value of a-b is: ",3-4)
+print("The value of a*b is: ",3*4)
+print("The value of a/b is: ",3/4)
+
+#ASSIGNMENT OPERATOR
+print("\n")
+c=4;
+print("The value of c is:",c)
+c += 2;
+print("Assignment += is:",c)
+c -= 2;
+print("Assignment -= is:",c)
+c *=2;
+print("Assignment *= is:",c)
+c /=2;
+print("Assignment /= is:",c)
+print("\n")
+#Comparison Operator
+x=5
+y=3
+z=(5>3)
+print("5>3 is:",z)
+z=(5==3)
+print("5==3 is:",z)
+z=(5!=3)
+print("5!=3 is:",z)
+print("\n")
+ 
+# LOGICAL OPERATORS
+b1=True
+b2=False
+print("The value of b1 and b2 is:",(b1 and b2))
+print("The value of b1 or b2 is:",(b1 or b2))
+print("The value of not b1 and b2 is:",(not b1))
