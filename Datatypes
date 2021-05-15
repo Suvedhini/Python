@@ -1,0 +1,11 @@
+a='Suvedhini'
+b=123
+c=45.89
+d= True
+e= None
+
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
