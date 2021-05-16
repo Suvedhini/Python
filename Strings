@@ -1,0 +1,7 @@
+a="Suvedhini"
+b='Suvedhini'
+c="""Suvedhini"""
+
+print("Single Quotes",a)
+print("Double Quotes",b)
+print("Triple Quotes",c)
