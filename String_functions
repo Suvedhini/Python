@@ -1,0 +1,9 @@
+a = "Once upon a time in India"
+print(len(a))
+
+b="suvedhini"
+print(b.endswith("ini"))
+print(b.count("i"))
+print(b.capitalize())
+print(a.find("upon"))
+print(a.replace("time","while"))
