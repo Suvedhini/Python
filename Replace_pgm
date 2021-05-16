@@ -1,0 +1,11 @@
+a='''Dear <|NAME|>,
+You are selected!
+
+Date: <|DATE|>
+'''
+name=input("Enter your name")
+date=input("Enter the date")
+a=a.replace("<|NAME|>",name)
+a=a.replace("<|DATE|>",date)
+
+print(a)
