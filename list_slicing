@@ -1,0 +1,2 @@
+kk=["123","abc",24,"kiwi","melon"]
+print(kk[0:5 :2])
