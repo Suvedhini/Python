@@ -1,0 +1,3 @@
+k1=["Hi","How","are","you"]
+kk.append(k1)
+print(kk)
