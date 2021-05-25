@@ -1,0 +1,7 @@
+a = [3,9,6,1,4,8,1]
+a.sort()
+print("Sorted list:")
+print(a)
+a.reverse()
+print("Reverse list:")
+print(a)
