@@ -1,0 +1,2 @@
+d={"name":"Suvedhini","age":21,"class":"Second"}
+print(d)
