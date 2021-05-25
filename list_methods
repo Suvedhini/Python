@@ -1,0 +1,11 @@
+#Appending values
+a.append(15)
+print(a)
+
+#Inserting values at index
+a.insert(6,7)
+print(a)
+
+#pop
+a.pop(6)
+print(a)
