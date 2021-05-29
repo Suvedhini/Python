@@ -1,0 +1,5 @@
+myDict={"name":"I am Suvedhini",
+        "place":{"city":"I am from Mumbai"}}
+
+print(myDict['name'])
+print(myDict['place']['city'])
