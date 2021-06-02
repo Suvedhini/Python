@@ -1,0 +1,9 @@
+try:
+    number=int(input("Enter a number: "))
+    res=9/number
+
+except(ValueError,ZeroDivisionError):
+    print("Something is wrong!")
+
+else:
+    print("Result is :",res)
