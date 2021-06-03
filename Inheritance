@@ -1,0 +1,13 @@
+class Person:
+    def __init__(self,fname,lname):
+        self.fname1=fname
+        self.lname1=lname
+    def print(self):
+        print(self.fname1,self.lname1)
+
+class Stu(Person):
+    def __init__(self,fname,lname):
+        Person.__init__(self,fname,lname)
+
+ob=Person("Suvedhini","Reddy")
+ob.print()
