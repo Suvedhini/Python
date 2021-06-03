@@ -1,0 +1,12 @@
+dict={}
+a1=input("Enter your favourite language person 1:")
+a2=input("Enter your favourite language person 2:")
+a3=input("Enter your favourite language person 3:")
+a4=input("Enter your favourite language person 4:")
+
+dict['Person 1']=a1
+dict['Person 2']=a2
+dict['Person 3']=a3
+dict['Person 4']=a4
+
+print(dict)
