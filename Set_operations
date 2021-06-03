@@ -1,0 +1,9 @@
+ a={1,4,2,7,9,8}
+print("Length of the Set is: ",len(a)) #Checks the length of the set
+print(a)
+
+a.remove(4) #Removes 4 from the set
+print(a)
+
+print(a.pop())
+print(a)
