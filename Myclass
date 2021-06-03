@@ -1,0 +1,7 @@
+class Myclass:
+    def __init__(self):
+        self.name='Suvedhini'
+        self.age=21
+ob=Myclass()
+print(ob.name)
+print(ob.age)
