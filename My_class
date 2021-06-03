@@ -1,0 +1,14 @@
+class My_class:
+    class_var=10
+    def __init__(self):
+        self.name='malar'
+        self.instance_var=25
+
+ob1=My_class()
+ob2=My_class()
+
+ob2.instance_var=15
+My_class.class_var=45
+
+print("Instance variable: ",ob1.instance_var,ob2.instance_var)
+print("Class Variable: ",ob2.class_var)
