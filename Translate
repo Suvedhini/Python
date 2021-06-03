@@ -1,0 +1,6 @@
+dict={"hum":"we","kaise":"how","paani":"water"}
+
+
+print("Options are: ",dict.keys())
+a = input("Enter the word: ")
+print("The meaning of the word is: ",dict[a])
